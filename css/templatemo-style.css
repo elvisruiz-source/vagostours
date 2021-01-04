@@ -382,7 +382,7 @@ https://templatemo.com/tm-516-known
   .caption h3 a:hover { color: #FF3; }
 
   .home-slider .item-first {
-    background-image: url(../images/imagenrot1.png);
+    background-image: url(../images/momentovago5.jfif);
 	background-position: center;
   }
 
@@ -412,7 +412,7 @@ https://templatemo.com/tm-516-known
     font-size: 25px;
     font-weight: bold;
     display: inline-block;
-    width: 60px;
+    width: 200px;
     height: 60px;
     line-height: 60px;
     text-align: center;
@@ -530,7 +530,7 @@ https://templatemo.com/tm-516-known
     width: 100%;
     position: absolute;
     bottom: 0;
-    padding: 20px 25px;
+    padding: 10px 10px;
   }
 
   .courses-date span,
@@ -559,7 +559,7 @@ https://templatemo.com/tm-516-known
     clear: both;
     padding: 15px 25px;
   }
-
+png
   .courses-author,
   .courses-author span {
     display: inline-block;
@@ -627,7 +627,7 @@ https://templatemo.com/tm-516-known
   -----------------------------------------*/
 
   #testimonial .item {
-    background: #ffffff;
+    background: #89B271;
     margin: 20px 0;
     padding: 4em 3em;
     text-align: left;
@@ -683,7 +683,7 @@ https://templatemo.com/tm-516-known
   -----------------------------------------*/
 
   #contact {
-    background: #3f51b5;
+    background: #6AB38A ;
   }
 
   #contact h2 {
@@ -993,3 +993,48 @@ https://templatemo.com/tm-516-known
       height: inherit;
     }
   }
+
+  /*------------------------------------
+REDES SOCIALES
+----------------------------------*/
+.social{
+  position: fixed;
+  top: 30%;
+  right: 0;
+  z-index: 100;
+}
+.social a{
+  display: block;
+  margin-bottom: 4px;
+  opacity: 0.8;
+}
+.social a:hover{
+  opacity: 1;
+}
+.social img{
+  width: 50px;
+  border-radius: 50%;
+  display: block;
+}
+
+/*form*/
+
+#formopt{
+  width: 540px auto;
+  height: 50px;
+}
+
+#pack{
+  background: white;
+  width: 400px;
+  height: 525px;
+
+}
+
+#packti{
+  width: 300px;
+}
+
+#packtit{
+  right: : 500%;
+}
